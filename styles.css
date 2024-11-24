@@ -3,20 +3,19 @@ body {
     font-family: sans-serif;
 }
 
-.navigation ul {
-    margin: 0;
-    padding: 0;
+nav {
     text-align: center;
+    margin:50px auto;
 }
 
-.navigation li {
+nav span {
+    font-size: 20px;
     font-weight: 100;
-    letter-spacing: 2px;
-    padding: 20px;
+    margin: 10px 10px;
 }
 
 h1 {
-    color: #22b2ea !important;
+    color: #22b2ea;
     font-size: 2em;
     padding-top: 100px;
     width: 100%;
